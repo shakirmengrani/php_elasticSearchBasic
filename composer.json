@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-es-example",
+    "description": "Description of project php-es_example.",
+    "authors": [
+        {
+            "name": "shakir",
+            "email": "shakir.mengrani@gmail.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "dev-master"
+    }
+}
